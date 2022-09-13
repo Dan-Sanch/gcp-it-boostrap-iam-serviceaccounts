@@ -1,3 +1,3 @@
-build_project_id        = "bogota-bod-build"
-environments_project_id = "bogota-bod"
+build_project_id        = "daniel-build"
+environments_project_id = "daniel-app-362315"
 deploy_infra            = true
